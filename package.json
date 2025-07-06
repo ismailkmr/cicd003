@@ -1,6 +1,7 @@
 {
   "name": "my-react-app-cicd",
   "version": "0.1.0",
+  "homepage": "https://ismailkmr.github.io/cicd003",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
